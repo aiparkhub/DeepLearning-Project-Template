@@ -249,12 +249,12 @@ python main_test.py -c config/simple_mnist_config.json -m simple_mnist.weights.1
 - Service Email：<servicehub-711@outlook.com>
 
 
-## 7.捐助 The development of the donation project cannot be separated from your support, please ask the developer for a drink ☕Coffee☕!
+## 7.The development of the donation project cannot be separated from your support. Please ask the developer for a cup of coffee!
 ![enter image description here](https://www.geekparkhub.com/docs/images/pay.jpg)
 
 
 ## 8.Thanks to developers working on giant shoulders
-> 参考[Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
+> Reference[Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
 
 
 >## 9.License open source agreement
