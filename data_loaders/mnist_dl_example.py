@@ -16,25 +16,28 @@
 # @GeekDeveloper : JEEP-711
 # @Author : system
 # @Version : 0.2.5
-# @Program : 自定义 加载数据类 | Custom load data class
-# @File : mnist_dl_examples.py
-# @Description : 自定义 加载数据类 | Custom load data class
+# @Program : 自定义 加载数据类 (示例) | Custom load data class (example)
+# @File : mnist_dl_example.py
+# @Description : 自定义 加载数据类 (示例) | Custom load data class (example)
 # @Copyright © 2019 - 2020 AIParkHub-Group. All rights reserved.
 
-# 导入第三方模块 | Import third-party modules
+
+# 导入 第三方模块 | Import third-party modules
 from keras.datasets import mnist
 from keras.utils import to_categorical
+
+# 导入 自定义模块 | Import Custom Module
 from bases.data_loader_base import DataLoaderBase
 
 
-class SimpleMnistDL(DataLoaderBase):
+class MnistDLExample(DataLoaderBase):
     '''
-    自定义 加载数据类, 需继承DataLoaderBase基类 |Custom load data class, need to inherit the DataLoaderBase base class
+    定义 自定义 加载数据类示例, 需继承DataLoaderBase基类 | Define custom load data class example, need to inherit the DataLoaderBase base class
     '''
 
-    # 定义 初始化 方法 | Definition initialization method
+    # 覆写 初始化 方法 | Override initialization method
     def __init__(self, config=None):
-        super(SimpleMnistDL, self).__init__(config)
+        super(MnistDLExample, self).__init__(config)
         (self.X_train, self.y_train), (self.X_test, self.y_test) = mnist.load_data()
 
         self.X_train = self.X_train.reshape((-1, 28 * 28))
@@ -48,10 +51,10 @@ class SimpleMnistDL(DataLoaderBase):
         print("[INFO] X_test.shape: %s, y_test.shape: %s"
               % (str(self.X_test.shape), str(self.y_test.shape)))
 
-    # 复写 获取训练数据 方法 | Replication Get Training Data Method
+    # 覆写 获取训练数据 方法 | Overwrite Get Training Data Method
     def get_train_data(self):
         return self.X_train, self.y_train
 
-    # 复写 获取测试数据 方法 | Retrieve test data method
+    # 覆写 获取测试数据 方法 | Overwrite test data method
     def get_test_data(self):
         return self.X_test, self.y_test

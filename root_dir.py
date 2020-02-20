@@ -16,7 +16,14 @@
 # @GeekDeveloper : JEEP-711
 # @Author : system
 # @Version : 0.2.5
-# @Program : 
-# @File : mnist_model_examples.py
-# @Description : 
+# @Program : 根目录 | Root directory
+# @File : root_dir.py
+# @Description : 定义 根目录 | Definition root directory
 # @Copyright © 2019 - 2020 AIParkHub-Group. All rights reserved.
+
+
+# 导入 标准库&内置模块 | Import standard library & built-in modules
+import os
+
+# 定义 存储项目所在的绝对路径 | Define the absolute path where the project is stored
+ROOT_DIR = os.path.dirname(os.path.abspath(__file__))

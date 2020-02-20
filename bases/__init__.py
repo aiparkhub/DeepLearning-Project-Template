@@ -21,6 +21,7 @@
 # @Description : 定义 初始化 基类 | Definition Initialization base class
 # @Copyright © 2019 - 2020 AIParkHub-Group. All rights reserved.
 
+
 __author__ = """system"""
 __email__ = 'jeep-711@outlook.com'
 __version__ = '0.2.5'
