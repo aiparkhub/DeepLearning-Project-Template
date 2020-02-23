@@ -5,6 +5,7 @@
 [![Document Language For English](https://img.shields.io/badge/Document%20Language-English-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg?style=for-the-badge&logo=conekta&cacheSeconds=3600)]()
 [![GitHub Repo Size in Bytes](https://img.shields.io/github/repo-size/aiparkhub/DeepLearning-Project-Template.svg?style=for-the-badge&logo=adobe-creative-cloud&cacheSeconds=3600)]()
+[![GitHub Release](https://img.shields.io/github/release/aiparkhub/DeepLearning-Project-Template.svg?style=for-the-badge&cacheSeconds=3600)]()
 [![Programming Language For Python](https://img.shields.io/badge/Programming%20Language-Python-blue.svg?style=for-the-badge&logo=python&logoColor=white&cacheSeconds=3600)]()
 [![Github Organization For AiParkHub](https://img.shields.io/badge/Github%20Organization-aiparkhub-magenta.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white&cacheSeconds=3600)](https://github.com/aiparkhub)
 [![WebSite For AiParkHub](https://img.shields.io/badge/WebSite-AIParkHub-yellow.svg?style=for-the-badge&logo=github&cacheSeconds=3600)](https://github.com/aiparkhub)
