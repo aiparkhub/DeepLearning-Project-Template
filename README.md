@@ -1,4 +1,5 @@
 # 🎊 DeepLearning-Project-Template 🎊
+<br>
 
 [![Document Update Time](https://img.shields.io/badge/Update%20Time-2020%2F02%2F20-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![Document Language For Simplified Chinese](https://img.shields.io/badge/Document%20Language-Simplified%20Chinese-coral.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README_Simplified_Chinese.md)
@@ -11,8 +12,10 @@
 [![WebSite For AiParkHub](https://img.shields.io/badge/WebSite-AIParkHub-yellow.svg?style=for-the-badge&logo=github&cacheSeconds=3600)](https://github.com/aiparkhub)
 [![Geek Developer For jeep711](https://img.shields.io/badge/Geek%20Developer-jeep711-azure2.svg?style=for-the-badge&logo=opsgenie&cacheSeconds=3600)](https://github.com/jeep711)
 
+<br>
+
 <div align="center">
-<img src="resource/group_sign/aiparkhub_group_sign.svg" width="450px" alt="AiParkHub-Organization" title="AiParkHub-Organization">
+<img src="resource/group_sign/aiparkhub_group_sign.svg" width="650px" alt="AiParkHub-Organization" title="AiParkHub-Organization">
 </div><br>
 
 - **AIParkHub-Group | Embarking on the AI ​​wave, pushing the limits of machine intelligence**
