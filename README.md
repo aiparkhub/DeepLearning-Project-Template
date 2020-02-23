@@ -11,7 +11,7 @@
 [![Geek Developer For jeep711](https://img.shields.io/badge/Geek%20Developer-jeep711-azure2.svg?style=for-the-badge&logo=opsgenie&cacheSeconds=3600)](https://github.com/jeep711)
 
 <div align="center">
-<img src="resource/group_sign/aiparkhub_group_sign.svg" width="450px" alt="AIParkHub-Group">
+<img src="resource/group_sign/aiparkhub_group_sign.svg" width="450px" alt="AiParkHub-Organization" title="AiParkHub-Organization">
 </div><br>
 
 - **AIParkHub-Group | Embarking on the AI ​​wave, pushing the limits of machine intelligence**
@@ -21,7 +21,7 @@
 - System Email：<systemhub-711@outlook.com>
 - Service Email：<servicehub-711@outlook.com>
 
-> [AiParkHub - DeepLearning-Project-Template](https://github.com/aiparkhub/DeepLearning-Project-Template)It is an engineering template built on top of PEP8 (Python Enhancement Proposal # 8), which implements the workflow of abstractly encapsulating common resources / simplifying loading data / building networks / training models / predicting samples.
+> [AiParkHub - DeepLearning-Project-Template](https://github.com/aiparkhub/DeepLearning-Project-Template) It is an engineering template built on top of PEP8 (Python Enhancement Proposal # 8), which implements the workflow of abstractly encapsulating common resources / simplifying loading data / building networks / training models / predicting samples.
 >
 > [Project Address : https://github.com/aiparkhub/DeepLearning-Project-Template](https://github.com/aiparkhub/DeepLearning-Project-Template)
 
@@ -117,9 +117,9 @@ python main_test.py -c config/simple_mnist_config.json -m simple_mnist.weights.1
 ![Engineering architecture](resource/demo/frames.png)
 
 ### 3.1 Engineering Tree Structure
-``` tree
+``` bash
 .
-├── LICENSE -   Apache2.0 Apache2.0 open source license agreement
+├── LICENSE -   Apache2.0 open source license agreement
 ├── README.md   - (Default English version) open source documentation
 ├── README_Simplified_Chinese.md    -   (Simplified Chinese) Open Source Documentation
 ├── bases   - Abstract package folder
@@ -234,7 +234,7 @@ python main_test.py -c config/simple_mnist_config.json -m simple_mnist.weights.1
 > - 4.Invoke the `predict()` method of executing the prediction class infer;
 
 
-## 5.💡How to contribute to this open source document💡
+## 5. 💡How to contribute to this open source document💡
 
 1. Blog content is mostly typed by hand, so there will inevitably be typos. You can help me find the typo.
 2. I may not have covered a lot of knowledge points, so you can supplement other knowledge points.
@@ -247,7 +247,7 @@ python main_test.py -c config/simple_mnist_config.json -m simple_mnist.weights.1
 -----
 
 
-## 6. 💌Thank you for reading, welcome your message and suggestion💌
+## 6.  💌Thank you for reading, welcome your message and suggestion💌
 
 - **AIParkHub-Group | Embarking on the AI ​​wave, pushing the limits of machine intelligence**
 - **`Official Public Email`**
@@ -257,15 +257,15 @@ python main_test.py -c config/simple_mnist_config.json -m simple_mnist.weights.1
 - Service Email：<servicehub-711@outlook.com>
 
 
-## 7.The development of the donation project cannot be separated from your support. Please ask the developer for a cup of coffee!
+## 7. The development of the donation project cannot be separated from your support. Please ask the developer for a cup of coffee!
 ![enter image description here](https://www.geekparkhub.com/docs/images/pay.jpg)
 
 
-## 8.Thanks to developers working on giant shoulders
-> Reference[Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
+## 8. Thanks to developers working on giant shoulders
+Reference [Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
 
 
->## 9.License open source agreement
+## 9. License open source agreement
  [Apache License Version 2.0](./LICENSE)
  
  ---------

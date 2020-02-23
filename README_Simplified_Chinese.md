@@ -11,10 +11,8 @@
 [![极客开发者-jeep711](https://img.shields.io/badge/极客开发者-jeep711-azure2.svg?style=for-the-badge&logo=opsgenie&cacheSeconds=3600)](https://github.com/jeep711)
 
 
-
-
 <div align="center">
-<img src="resource/group_sign/aiparkhub_group_sign.svg" width="450px" alt="AIParkHub-Group">
+<img src="resource/group_sign/aiparkhub_group_sign.svg" width="450px" alt="AiParkHub-Organization" title="AiParkHub-Organization">
 </div><br>
 
 - **AIParkHub-Group | 踏上AI浪潮 推动机器智能的极限**
@@ -120,7 +118,7 @@ python main_test.py -c config/simple_mnist_config.json -m simple_mnist.weights.1
 ![工程架构](resource/demo/frames.png)
 
 ### 3.1 工程树形结构
-``` tree
+``` bash
 .
 ├── LICENSE -   Apache2.0 开源许可协议
 ├── README.md   - (默认英文版)开源文档说明
@@ -237,7 +235,7 @@ python main_test.py -c config/simple_mnist_config.json -m simple_mnist.weights.1
 > - 4.调用执行预测类infer的`predict()`预测方法;
 
 
-## 5.💡如何对该开源文档进行贡献💡
+## 5. 💡如何对该开源文档进行贡献💡
 
 1. Blog内容大多是手敲,所以难免会有笔误,你可以帮我找错别字。
 2. 很多知识点我可能没有涉及到,所以你可以对其他知识点进行补充。
@@ -250,7 +248,7 @@ python main_test.py -c config/simple_mnist_config.json -m simple_mnist.weights.1
 -----
 
 
-## 6. 💌感谢您的阅读 欢迎您的留言与建议💌
+## 6.  💌感谢您的阅读 欢迎您的留言与建议💌
 
 - **AIParkHub-Group | 踏上AI浪潮 推动机器智能的极限**
 - **`Official Public Email`**
@@ -260,15 +258,15 @@ python main_test.py -c config/simple_mnist_config.json -m simple_mnist.weights.1
 - Service Email：<servicehub-711@outlook.com>
 
 
-## 7.捐助 项目的发展离不开你的支持,请开发者喝杯☕Coffee☕吧!
+## 7. 捐助 项目的发展离不开你的支持,请开发者喝杯☕Coffee☕吧!
 ![enter image description here](https://www.geekparkhub.com/docs/images/pay.jpg)
 
 
-## 8.感谢 站在巨人肩膀上工作的开发者
-> 参考[Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
+## 8. 感谢 站在巨人肩膀上工作的开发者
+参考 [Tensorflow-Project-Template](https://github.com/MrGemy95/Tensorflow-Project-Template)
 
 
->## 9.License 开源协议
+## 9. License 开源协议
  [Apache License Version 2.0](./LICENSE)
  
  ---------
