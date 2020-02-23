@@ -1,6 +1,14 @@
 # 🎊 DeepLearning-Project-Template 🎊
 
-@(Update time:2020-02-20) [Document Language : [Simplified Chinese](./README_Simplified_Chinese.md) & [English](./README.md) | Programming Language : Python | Website : [AIParkHub](https://github.com/aiparkhub) | GeekDeveloper : [JEEP-711](https://github.com/jeep711) | Github : [github.com/aiparkhub](https://github.com/aiparkhub) | ![OpenSource](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg) | ![GitHub repo size in bytes](https://img.shields.io/github/repo-size/aiparkhub/DeepLearning-Project-Template.svg) ]
+[![Document Update Time](https://img.shields.io/badge/Update%20Time-2020%2F02%2F20-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
+[![Document Language For Simplified Chinese](https://img.shields.io/badge/Document%20Language-Simplified%20Chinese-coral.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README_Simplified_Chinese.md)
+[![Document Language For English](https://img.shields.io/badge/Document%20Language-English-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg?style=for-the-badge&logo=conekta&cacheSeconds=3600)]()
+[![GitHub Repo Size in Bytes](https://img.shields.io/github/repo-size/aiparkhub/DeepLearning-Project-Template.svg?style=for-the-badge&logo=adobe-creative-cloud&cacheSeconds=3600)]()
+[![Programming Language For Python](https://img.shields.io/badge/Programming%20Language-Python-blue.svg?style=for-the-badge&logo=python&logoColor=white&cacheSeconds=3600)]()
+[![Github Organization For AiParkHub](https://img.shields.io/badge/Github%20Organization-aiparkhub-magenta.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white&cacheSeconds=3600)](https://github.com/aiparkhub)
+[![WebSite For AiParkHub](https://img.shields.io/badge/WebSite-AIParkHub-yellow.svg?style=for-the-badge&logo=github&cacheSeconds=3600)](https://github.com/aiparkhub)
+[![Geek Developer For jeep711](https://img.shields.io/badge/Geek%20Developer-jeep711-azure2.svg?style=for-the-badge&logo=opsgenie&cacheSeconds=3600)](https://github.com/jeep711)
 
 <div align="center">
 <img src="resource/group_sign/aiparkhub_group_sign.svg" width="450px" alt="AIParkHub-Group">

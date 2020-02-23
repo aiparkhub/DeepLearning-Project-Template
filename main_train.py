@@ -24,6 +24,7 @@
 
 # 导入 第三方模块 | Import third-party modules
 import numpy as np
+import ssl
 
 # 导入 自定义模块 | Import Custom Module
 from data_loaders.mnist_dl_example import MnistDLExample
@@ -42,6 +43,7 @@ def main_train():
     NumPy FutureWarning
     https://stackoverflow.com/questions/48340392/futurewarning-conversion-of-the-second-argument-of-issubdtype-from-float-to
     """
+    ssl._create_default_https_context = ssl._create_unverified_context
     print('[INFO] 解析配置...')
 
     parser = None
@@ -76,6 +78,7 @@ def main_train():
 
 
 def test_main():
+    ssl._create_default_https_context = ssl._create_unverified_context
     print('[INFO] 解析配置...')
     config = process_config('config/simple_mnist_config.json')
 

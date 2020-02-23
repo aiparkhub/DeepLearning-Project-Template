@@ -24,6 +24,7 @@
 
 # 导入 第三方模块 | Import third-party modules
 import numpy as np
+import ssl
 
 # 导入 自定义模块 | Import Custom Module
 from data_loaders.mnist_dl_example import MnistDLExample
@@ -39,6 +40,7 @@ def main_test():
     定义 测试 函数 | Define test function
     '''
 
+    ssl._create_default_https_context = ssl._create_unverified_context
     print('[INFO] 解析配置...')
     parser = None
     config = None
