@@ -18,7 +18,7 @@
 <img src="resource/group_sign/aiparkhub_group_sign.svg" width="650px" alt="AiParkHub-Organization" title="AiParkHub-Organization">
 </div><br>
 
-- **AIParkHub-Group | 踏上AI浪潮 推动机器智能的极限**
+- **AIParkHub-Organization | 踏上AI浪潮 推动机器智能的极限**
 - **`Official Public Email`**
 - Group Email：<aiparkhub@outlook.com> —— <geekparkhub@outlook.com> —— <hackerparkhub@outlook.com>
 - User Email：<jeep711.home.@gmail.com> —— <jeep-711@outlook.com>
@@ -253,7 +253,7 @@ python main_test.py -c config/simple_mnist_config.json -m simple_mnist.weights.1
 
 ## 6.  💌感谢您的阅读 欢迎您的留言与建议💌
 
-- **AIParkHub-Group | 踏上AI浪潮 推动机器智能的极限**
+- **AIParkHub-Organization | 踏上AI浪潮 推动机器智能的极限**
 - **`Official Public Email`**
 - Group Email：<aiparkhub@outlook.com> —— <geekparkhub@outlook.com> —— <hackerparkhub@outlook.com>
 - User Email：<jeep711.home.@gmail.com> —— <jeep-711@outlook.com>
