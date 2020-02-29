@@ -1,7 +1,7 @@
 # 🎊 DeepLearning-Project-Template 🎊
 <br>
 
-[![Document Update Time](https://img.shields.io/badge/Update%20Time-2020%2F02%2F20-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
+[![Document Update Time](https://img.shields.io/badge/Update%20Time-2020%2F02%2F29-darkorchid.svg?style=for-the-badge&logo=codacy&cacheSeconds=3600)]()
 [![Document Language For Simplified Chinese](https://img.shields.io/badge/Document%20Language-Simplified%20Chinese-coral.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README_Simplified_Chinese.md)
 [![Document Language For English](https://img.shields.io/badge/Document%20Language-English-mediumpurple.svg?style=for-the-badge&logo=microsoft-word&cacheSeconds=3600)](./README.md)
 [![Open Source](https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg?style=for-the-badge&logo=conekta&cacheSeconds=3600)]()
@@ -20,7 +20,7 @@
 
 - **AIParkHub-Group | Embarking on the AI ​​wave, pushing the limits of machine intelligence**
 - **`Official Public Email`**
-- Group Email：<geekparkhub@outlook.com> —— <hackerparkhub@outlook.com> —— <hackerpark@hotmail.com>
+- Group Email：<aiparkhub@outlook.com> —— <geekparkhub@outlook.com> —— <hackerparkhub@outlook.com>
 - User Email：<jeep711.home.@gmail.com> —— <jeep-711@outlook.com>
 - System Email：<systemhub-711@outlook.com>
 - Service Email：<servicehub-711@outlook.com>
@@ -255,7 +255,7 @@ python main_test.py -c config/simple_mnist_config.json -m simple_mnist.weights.1
 
 - **AIParkHub-Group | Embarking on the AI ​​wave, pushing the limits of machine intelligence**
 - **`Official Public Email`**
-- Group Email：<geekparkhub@outlook.com> —— <hackerparkhub@outlook.com> —— <hackerpark@hotmail.com>
+- Group Email：<aiparkhub@outlook.com> —— <geekparkhub@outlook.com> —— <hackerparkhub@outlook.com>
 - User Email：<jeep711.home.@gmail.com> —— <jeep-711@outlook.com>
 - System Email：<systemhub-711@outlook.com>
 - Service Email：<servicehub-711@outlook.com>
